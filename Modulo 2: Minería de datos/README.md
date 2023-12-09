@@ -14,4 +14,4 @@ La práctica tiene como objetivo afianzar y confirmar los conocimientos adquirid
 
 **Tarea Minería de Datos**: En este documento PDF se detallan los requisitos y las puntuaciones asignadas a cada parte de la práctica. Asegúrate de seguir cada paso para completar la tarea de manera satisfactoria.
 
-**Nuestras funciones.py**: Este archivo contiene algunas funciones que nos servirán de apoyo a la hora de realizar los ejercicios. Nos lo proporciona el profesor del módulo.
+**NuestrasFunciones.py**: Este archivo contiene algunas funciones que nos servirán de apoyo a la hora de realizar los ejercicios. Nos lo proporciona el profesor del módulo.
