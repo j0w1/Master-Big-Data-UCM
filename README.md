@@ -6,6 +6,7 @@ En este repositorio almacenaré toda aquel código que he utilizado para la real
 El repositorio está organizado en carpetas, cada una dedicada a un módulo específico del máster. A continuación, se describe brevemente el contenido actual, el cual iré actualizando y aumentando:
 
 - **Módulo 1: Python Avanzado**
+- **Módulo 2: Minería de datos**
 
 ## Uso
 
