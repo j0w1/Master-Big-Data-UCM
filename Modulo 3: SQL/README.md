@@ -7,4 +7,4 @@ La práctica tiene como objetivo afianzar y confirmar los conocimientos adquirid
 ## Contenido de la Carpeta
 **Tarea_SQL.txt**: Este archivo contiene los enunciados y queries necesarias para completar cada uno de estos.
 
-**Tarea SQL**: En este documento PDF se detallan los requisitos y las puntuaciones asignadas a cada parte de la práctica. Asegúrate de seguir cada paso para completar la tarea de manera satisfactoria.
+**Tarea_SQL.pdf**: En este documento PDF se detallan los requisitos y las puntuaciones asignadas a cada parte de la práctica. Asegúrate de seguir cada paso para completar la tarea de manera satisfactoria.
