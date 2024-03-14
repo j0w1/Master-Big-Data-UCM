@@ -7,6 +7,7 @@ El repositorio está organizado en carpetas, cada una dedicada a un módulo espe
 
 - **Módulo 1: Python Avanzado**
 - **Módulo 2: Minería de datos**
+- **Módulo 3: Bases de datos SQL**
 
 ## Uso
 
